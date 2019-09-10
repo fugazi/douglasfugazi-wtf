@@ -5,7 +5,7 @@
   "header": {
     "title": "Douglas Fugazi",
     "tagline": "Página personal",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/foto_douglas.jpeg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
