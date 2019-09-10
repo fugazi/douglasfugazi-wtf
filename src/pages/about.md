@@ -5,7 +5,7 @@ img_path: /images/foto_douglas.jpeg
 menus:
   main:
     title: About
-    weight: 2
+    weight: 3
 template: page
 ---
 
