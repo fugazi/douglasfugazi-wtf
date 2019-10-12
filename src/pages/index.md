@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Douglas Fugazi
 sections:
   - component: HeroBlock
     content: >-
