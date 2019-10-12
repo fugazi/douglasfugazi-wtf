@@ -1,20 +1,21 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
-img_path: /images/foto_douglas.jpeg
+subtitle: 'My name is Douglas Urrea Ocampo, based in Medellín, Colombia'
+img_path: ''
 menus:
   main:
     title: About
     weight: 3
 template: page
 ---
+I'm a Senior QA Engineer at heart!
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I've been working with 8+ years of experience in Software Testing and Projects Management in Agile environment and has hands-on experience in all stages of software testing life cycle.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+He is certified in ISTQB Foundation, IBM Certified Developer and a Certified Scrum Master. Currently I'm a candidate for a Master degree in Technology Management & Innovation at Pontifical Bolivarian University (UPB).
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+He worked in several testing projects in finance and banking companies, taking the project from the planning, design, development, administration and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. Moreover I'm a passionate about Software Testing Technologies.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+He loves to ride bike, to watch professional cycling, spend time with his family and to listen electronic music.
 
-*Thank You for reading!*
+He is running an electronic music side-project with some friends, take a listen: www.monofonicos.net
