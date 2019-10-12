@@ -2,7 +2,7 @@
 title: Talks
 menus:
   main:
-    title: Talks
+    title: 'Talks, workshops and webinars'
     weight: 4
 template: page
 ---
