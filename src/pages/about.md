@@ -10,7 +10,7 @@ template: page
 ---
 I'm a Senior QA Engineer at heart!
 
-I've been working with 8+ years of experience in Software Testing and Projects Management in Agile environment and has hands-on experience in all stages of software testing life cycle.
+I've been working with 8+ years of experience in Software Testing and Projects Management in Agile environment and has hands-on experience in all stages of software testing life cycle. Joined Endava Medellín in 2019.
 
 He is certified in ISTQB Foundation, IBM Certified Developer and a Certified Scrum Master. Currently I'm a candidate for a Master degree in Technology Management & Innovation at Pontifical Bolivarian University (UPB).
 
