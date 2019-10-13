@@ -14,7 +14,7 @@ I've been working with 8+ years of experience in Software Testing and Projects M
 
 He is certified in ISTQB Foundation, IBM Certified Developer and a Certified Scrum Master. Currently I'm a candidate for a Master degree in Technology Management & Innovation at Pontifical Bolivarian University (UPB).
 
-He worked in several testing projects in finance and banking companies, taking the project from the planning, design, development, administration and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. Moreover I'm a passionate about Software Testing Technologies.
+He worked in several testing projects in finance and banking companies, taking the project from the planning, design, development, administration and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. Moreover, I'm a passionate about Software Testing Technologies.
 
 He loves to ride bike, to watch professional cycling, spend time with his family and to listen electronic music.
 
