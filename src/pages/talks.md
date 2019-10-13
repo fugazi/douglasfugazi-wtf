@@ -6,7 +6,7 @@ menus:
     weight: 4
 template: page
 ---
-## **Pataconf Medellín - 10 Oct. 2019 (Ruta N)**
+## **Pataconf Medellín - 12 Oct. 2019 (Ruta N)**
 
 Talk: **Moving from Manual to Automated Tests with Cypress**
 
