@@ -25,7 +25,8 @@ sections:
       knowledge of testing techniques/methodologies and how to apply them, as
       well taking the project from the planning, design, development,
       administration and execution, achieving the goals and objectives that are
-      expected by the business in the implementation of IT solutions. 
+      expected by the business in the implementation of IT solutions. Moreover,
+      he is a passionate about Software Testing Technologies.
 
 
       He loves to ride bike, to watch professional cycling, spend time with his
