@@ -14,9 +14,7 @@ Slides: <http://j.mp/slidespataconf2019>
 
 Wokshop: <http://bit.ly/cypresspataconf>
 
-\*
-
-**Globant Quality Summit - 24 Oct. 2019 (Globant Medellín)**
+## **Globant Quality Summit - 24 Oct. 2019 (Globant Medellín)**
 
 Talk: **Pruebas Exploratorias Guiadas por Mapas Mentales**
 
