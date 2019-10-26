@@ -14,7 +14,7 @@ Slides: <http://j.mp/slidespataconf2019>
 
 Wokshop: <http://bit.ly/cypresspataconf>
 
-\---
+\*
 
 **Globant Quality Summit - 24 Oct. 2019 (Globant Medellín)**
 
