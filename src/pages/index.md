@@ -29,12 +29,6 @@ sections:
       he is a passionate about Software Testing Technologies.
 
 
-      He is the main organizer of the meetup: **[Medellin Testing
-      Nights](https://www.meetup.com/es-ES/Medellin-Testing-Night/)**, a monthly
-      event promoted by Endava in order to generate community around Testing in
-      Medellín, Colombia.
-
-
       He loves to ride bike, to watch professional cycling, spend time with his
       family and to listen electronic music. 
 
