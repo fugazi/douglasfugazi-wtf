@@ -19,3 +19,11 @@ Wokshop: <http://bit.ly/cypresspataconf>
 Talk: **Pruebas Exploratorias Guiadas por Mapas Mentales**
 
 Slides: <http://bit.ly/slidesQS2019>
+
+## **Medellín Testing Nights - 4 Mar. 2020 (Milla de Oro)**
+
+Talk: **Accessibility Testing**
+
+Slides: <http://j.mp/slidesMTN2020>
+
+Meetup: <https://www.meetup.com/es-ES/Medellin-Testing-Night>
