@@ -36,4 +36,4 @@ Slides: <https://bit.ly/apimedjs>
 
 Meetup: [](https://www.meetup.com/es-ES/Medellin-Testing-Night)<https://www.meetup.com/es-ES/MedellinJS/events/271359353/>
 
-Video: <https://www.twitch.tv/videos/660580038?t=00h50m46s>
+Video: <https://youtu.be/RuOy8g0mxLo?t=3046>
