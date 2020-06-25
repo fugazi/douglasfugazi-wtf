@@ -1,5 +1,5 @@
 ---
-title: 'Talks, workshops and webinars'
+title: Talks, workshops and webinars
 menus:
   main:
     title: Talks
@@ -27,3 +27,13 @@ Talk: **Accessibility Testing**
 Slides: <http://j.mp/slidesMTN2020>
 
 Meetup: <https://www.meetup.com/es-ES/Medellin-Testing-Night>
+
+## **Medellín Javascript - 24 Jun. 2020 (Virtual)**
+
+Talk: **API Testing con Postman**
+
+Slides: <https://bit.ly/apimedjs>
+
+Meetup: [](https://www.meetup.com/es-ES/Medellin-Testing-Night)<https://www.meetup.com/es-ES/MedellinJS/events/271359353/>
+
+Video: <https://www.twitch.tv/videos/660580038?t=00h50m46s>
