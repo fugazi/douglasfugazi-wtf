@@ -15,7 +15,7 @@ sections:
       Management.  
 
 
-      He is certified in ISTQB Foundation, IBM Developer and a Certified Scrum Master. Currently he is a candidate for a Master's degree in Technology Management & Innovation at Pontifical Bolivarian University (UPB). 
+      Based in Medellín, Colombia. He is certified in ISTQB Foundation, IBM Developer and a Certified Scrum Master. He has a Master (MSc) degree in Technology Management & Innovation at Pontifical Bolivarian University (UPB). 
 
 
       He has worked in several testing projects in finance, retail, insurance, media OTT, e-commerce, telecommunications and banking companies, with knowledge of testing techniques/methodologies and how to apply them, as well taking the project from the planning, design, development, administration and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. Moreover, he is a passionate about Software Testing Technologies.
