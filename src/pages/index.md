@@ -25,6 +25,9 @@ sections:
 
 
       He is running an electronic music side-project with some friends, take a listen: [www.monofonicos.net](http://monofonicos.net)
+
+
+      Stay in touch with me on LinkedIn: <https://www.linkedin.com/in/douglasfugazi/>
     section_id: about
     title: About
     type: contentblock
