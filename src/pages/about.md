@@ -22,7 +22,7 @@ As QA Engineer he has thorough experience testing Web applications, Mobile Apps 
 
 He has good interpersonal skills as well as excellent problem solving skills and a strong technical background, and highly collaborative, supportive and team player that demonstrates a proactive attitude.
 
-He loves to ride his bike, watch professional cycling, spend time with his family and listen electronic music.
+He loves to ride his bike, watch professional cycling, spend time with his family and listen to electronic music.
 
 He is running an electronic music side-project with some friends, take a listen: [www.monofonicos.net](http://www.monofonicos.net)
 
