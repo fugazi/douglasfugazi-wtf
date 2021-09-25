@@ -46,6 +46,19 @@ module.exports = {
                 // Defines where to place the tracking script - `true` in the head and `false` in the body
 				head: true,
             }
+        },
+		{
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+                // You can add multiple tracking ids and a pageview event will be fired for all of them.
+				trackingIds: [
+				"G-Q33JRV9F9C", // Google Analytics 
+				],
+			pluginConfig: {
+			// Puts tracking script in the head instead of the body
+			head: true,
+				}
+			}
         }
     ]
 };
