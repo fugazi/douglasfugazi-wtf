@@ -44,7 +44,7 @@ module.exports = {
                 // The property ID; the tracking code won't be generated without it
                 trackingId: "G-Q33JRV9F9C",
                 // Defines where to place the tracking script - `true` in the head and `false` in the body
-				head: false,
+				head: true,
             }
         },
 		{
