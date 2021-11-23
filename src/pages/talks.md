@@ -6,6 +6,16 @@ menus:
     weight: 4
 template: page
 ---
+## **Endava DevWeek - 22 Nov. 2021 (Virtual)**
+
+Talk: **Accessibility Testing in Modern Software Development**
+
+Slides: <https://bit.ly/3nLXq2N>
+
+Workshop: <https://bit.ly/3oTszRa>
+
+Video: <https://bit.ly/3DLuL3y>
+
 ## **Medellín Javascript - 24 Jun. 2020 (Virtual)**
 
 Talk: **API Testing con Postman**
