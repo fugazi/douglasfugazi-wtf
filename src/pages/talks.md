@@ -14,7 +14,7 @@ Slides: <https://bit.ly/3nLXq2N>
 
 Workshop: <https://bit.ly/3oTszRa>
 
-Video: <https://bit.ly/3DLuL3y>
+Video: [](https://bit.ly/3DLuL3y)<https://youtu.be/1H_S3FzacxA>
 
 ## **Medellín Javascript - 24 Jun. 2020 (Virtual)**
 
