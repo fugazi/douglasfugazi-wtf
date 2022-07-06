@@ -16,13 +16,19 @@ I am certified in ISTQB Foundation, IBM Certified Developer and a Certified Scru
 
 I am the main organizer of meetup: **[Medellin Testing Nights](https://www.meetup.com/es-ES/Medellin-Testing-Night/)**, a monthly event promoted by Endava in order to generate community around Testing in Medellín, Colombia.
 
-I've worked in several testing projects in finance, retail, insurance, media OTT, e-commerce, telecommunications and banking companies, with knowledge of testing techniques/methodologies and how to apply them (including functional/integration, sanity, regression, performance, exploratory testing, end-to-end testing etc.), taking the project from the planning, design, development, administration and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. He has been delighted to be a leader setting up QA best practices understanding of all phases of the Software Development Life Cycle in a regulated environment. 
+I've worked in several testing projects in finance, retail, insurance, media OTT, e-commerce, telecommunications, and banking companies, with knowledge of testing techniques/methodologies and how to apply them (including functional/integration, sanity, regression, performance, exploratory testing, end-to-end testing, etc.), taking the project from the planning, design, development, administration, and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. He has been delighted to be a leader in setting up QA best practices and understanding of all phases of the Software Development Life Cycle in a regulated environment. 
 
-As QA Engineer he has thorough experience testing Web applications, Mobile Apps on iOS and Android, also standalone applications with technologies as Java, C#, Python, JavaScript, HTML, CSS, React, Vue, Angular, Nodejs, Docker, Cypress end-to-end, Salesforce platform testing experience and so on. Also he has been working as QA Automation Engineer with tools such Selenium Webdriver, TestNG, JUnit, Maven, and Cypress; all within DevOps practices like CI/CD.
+As Senior QA Engineer he has thorough experience testing Web applications, Mobile Apps on iOS and Android, also standalone applications with technologies such as Java, C#, Python, JavaScript, HTML, CSS, React, Vue, Angular, Nodejs, Docker, Cypress end-to-end, Salesforce platform testing experience and so on. 
 
-He has knowledge of Oracle and MySQL databases as well as SQL queries, also with intermediate experience in API testing using Postman, SOAPUI, Swagger, Newman and other tools, writing BDD scenarios using Cucumber/Gherkin and debugging skills. He has advanced experience using Test Management tools like Jira, Zephyr, Confluence, TestRail and bug tracking tools like Jira. Moreover, he is a passionate about Software Testing Technologies.
+Also, he has been working as QA Automation Engineer with tools such Selenium Webdriver, Cypress, Maven, TestNG, JUnit, and Postman; all within DevOps practices like CI/CD. 
 
-He has good interpersonal skills as well as excellent problem solving skills and a strong technical background, good time management skills and highly collaborative, supportive and team player that demonstrates a proactive attitude.
+Douglas has advanced experience writing Automation Tests in the iteration cycle at multiple levels: UI, API, Integration, End-to-End, etc. in technologies like JAVA (Selenium WebDriver) and JavaScript (Cypress) and a good understanding of REST-based web services.
+
+He has knowledge experience in API testing using Postman, SOAPUI, Swagger, Newman, and other tools, writing BDD scenarios using Cucumber/Gherkin, and debugging skills. Also with intermediate knowledge of Oracle and MySQL databases as well as SQL queries.
+
+He has advanced experience using Test Management tools like Jira, Zephyr, Confluence, TestRail, and bug tracking tools like Jira. Moreover, he is passionate about Software Testing Technologies.
+
+He has good interpersonal skills as well as excellent problem-solving skills and a strong technical background, good time management skills, and a highly collaborative, supportive, and team player that demonstrates a proactive attitude.
 
 He loves to ride his bike, watch professional cycling, spend time with his family and listen to electronic music.
 
