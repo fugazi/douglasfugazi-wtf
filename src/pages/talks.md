@@ -6,6 +6,12 @@ menus:
     weight: 4
 template: page
 ---
+## **Medellín Testing Nights - 28 Jul. 2022 (Virtual)**
+
+Talk: **Mitos del Testing**
+
+Video: [https://youtu.be/jn929SK8EuA](https://www.youtube.com/watch?v=jn929SK8EuA)
+
 ## **Endava DevWeek - 22 Nov. 2021 (Virtual)**
 
 Talk: **Accessibility Testing in Modern Software Development**
