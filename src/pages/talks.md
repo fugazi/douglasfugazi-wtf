@@ -8,7 +8,7 @@ template: page
 ---
 ## **Medellín Testing Nights - 28 Jul. 2022 (Virtual)**
 
-Talk: **Mitos del Testing**
+Talk:  **Mitos del Testing**
 
 Video: [https://youtu.be/jn929SK8EuA](https://www.youtube.com/watch?v=jn929SK8EuA)
 
