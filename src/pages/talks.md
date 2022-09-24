@@ -6,6 +6,12 @@ menus:
     weight: 4
 template: page
 ---
+## **School of Testing Medellín - 28 Sept. 2022 (Endava Colombia)**
+
+Talk:  **Agile Testing Course**
+
+Slides: <https://bit.ly/AgileTesting2022>
+
 ## **Medellín Testing Nights - 28 Jul. 2022 (Virtual)**
 
 Talk:  **Mitos del Testing**
@@ -16,7 +22,7 @@ Video: [https://youtu.be/jn929SK8EuA](https://www.youtube.com/watch?v=jn929SK8Eu
 
 Talk: **Accessibility Testing in Modern Software Development**
 
-Slides: <https://bit.ly/3nLXq2N>
+Slides: <https://bit.ly/AccessibilityTesting>
 
 Workshop: <https://bit.ly/3oTszRa>
 
