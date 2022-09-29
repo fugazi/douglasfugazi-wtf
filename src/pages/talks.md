@@ -12,6 +12,8 @@ Talk:  **Agile Testing Course**
 
 Slides: <https://bit.ly/AgileTesting2022>
 
+Video: <https://youtu.be/SYQlmquIB9M>
+
 ## **Medellín Testing Nights - 28 Jul. 2022 (Virtual)**
 
 Talk:  **Mitos del Testing**
