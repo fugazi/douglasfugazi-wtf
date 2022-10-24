@@ -8,7 +8,7 @@ template: page
 ---
 ## **School of Testing Medellín - 18 Oct. 2022 (Endava Colombia)**
 
-Talk:  **Testing Tools**
+Talk:  **Testing Tools** 
 
 Slides: <https://bit.ly/TestingTools2022>
 
