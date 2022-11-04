@@ -6,6 +6,14 @@ menus:
     weight: 4
 template: page
 ---
+## **Testing Internship Program - 03 Nov. 2022 (Colombia)**
+
+Talk:  **Introduction to Accessibility Testing**
+
+Slides: <https://bit.ly/AccessibilityTesting>
+
+V﻿ideo: <https://youtu.be/mGlTQvmw91Q>
+
 ## **School of Testing Medellín - 18 Oct. 2022 (Endava Colombia)**
 
 Talk:  **Testing Tools**
