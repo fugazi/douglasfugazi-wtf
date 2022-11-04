@@ -6,6 +6,14 @@ menus:
     weight: 4
 template: page
 ---
+## **Make It Real Camp - 04 Nov. 2022 (Colombia)**
+
+Talk:  **End-to-End Web Testing**
+
+Slides: <https://bit.ly/EndToEndTesting>
+
+V﻿ideo: <https://youtu.be/3SM_3AkTupw>
+
 ## **Testing Internship Program - 03 Nov. 2022 (Colombia)**
 
 Talk:  **Introduction to Accessibility Testing**
