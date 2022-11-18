@@ -6,6 +6,12 @@ menus:
     weight: 4
 template: page
 ---
+## **School of Testing Medellín - 16 Nov. 2022 (Endava Colombia)**
+
+Talk:  **API Testing Exercises**
+
+V﻿ideo: <https://youtu.be/PlKR5oSSL_0>
+
 ## **Make It Real Camp - 04 Nov. 2022 (Colombia)**
 
 Talk:  **End-to-End Web Testing**
