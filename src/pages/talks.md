@@ -18,7 +18,7 @@ Talk:  **End-to-End Web Testing**
 
 Slides: <https://bit.ly/EndToEndTesting>
 
-V﻿ideo: <https://youtu.be/3SM_3AkTupw>
+V﻿ideo: <https://youtu.be/vHFwSNQBL6w>
 
 ## **Testing Internship Program - 03 Nov. 2022 (Colombia)**
 
