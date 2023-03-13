@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "echo 'default context douglas'"
+command = "./stackbit-build.sh"
 
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
