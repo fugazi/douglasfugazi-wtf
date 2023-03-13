@@ -1,1 +1,6 @@
+[build]
+publish = "public"
+command = "echo 'default context'"
 
+[[plugins]]
+package = "@netlify/plugin-lighthouse"
