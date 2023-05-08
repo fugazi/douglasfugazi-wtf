@@ -10,13 +10,13 @@ template: page
 
 Talk:  **Testing with Accessibility Tree and ARIA attributes**
 
-Slides: **<https://bit.ly/AccessibilityTreeAria2023>**
+Slides: <https://bit.ly/AccessibilityTreeAria2023>
 
 ## Testing Talk Medellín **\-** 03 May. 2023 (Colombia)
 
 Talk:  **Accessibility Testing**
 
-Slides: **<https://bit.ly/AccessibilityTesting2023>**[](https://youtu.be/PlKR5oSSL_0)
+Slides: <https://bit.ly/AccessibilityTesting2023>[](https://youtu.be/PlKR5oSSL_0)
 
 ## **School of Testing Medellín - 16 Nov. 2022 (Colombia)**
 
