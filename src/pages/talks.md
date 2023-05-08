@@ -10,13 +10,13 @@ template: page
 
 Talk:  **Testing with Accessibility Tree and ARIA attributes**
 
-Slides: <https://bit.ly/AccessibilityTreeAria2023>
+Slides: [https://bit.ly/AccessibilityTreeAria2023](https://bit.ly/AccessibilityTreeAria2023_)
 
 ## Testing Talk Medellín **\-** 03 May. 2023 (Colombia)
 
 Talk:  **Accessibility Testing**
 
-Slides: <https://bit.ly/AccessibilityTesting2023>[](https://youtu.be/PlKR5oSSL_0)
+Slides: [https://bit.ly/AccessibilityTesting2023](https://bit.ly/AccessibilityTesting2023_)[](https://youtu.be/PlKR5oSSL_0)
 
 ## **School of Testing Medellín - 16 Nov. 2022 (Colombia)**
 
@@ -36,13 +36,13 @@ V﻿ideo: <https://youtu.be/vHFwSNQBL6w>
 
 Talk:  **Introduction to Accessibility Testing**
 
-Slides: <https://bit.ly/AccessibilityTesting>
+Slides: [https://bit.ly/AccessibilityTesting](https://bit.ly/AccessibilityTesting_)
 
 ## **School of Testing Medellín - 18 Oct. 2022 (Colombia)**
 
 Talk:  **Testing Tools**
 
-Slides: <https://bit.ly/TestingTools2022>
+Slides: [https://bit.ly/TestingTools2022](https://bit.ly/TestingTools2022_)
 
 ## **School of Testing Medellín - 28 Sept. 2022 (Colombia)**
 
@@ -60,7 +60,7 @@ Video: [https://youtu.be/jn929SK8EuA](https://www.youtube.com/watch?v=jn929SK8Eu
 
 Talk: **Accessibility Testing in Modern Software Development**
 
-Slides: <https://bit.ly/AccessibilityTesting>
+Slides: [https://bit.ly/AccessibilityTesting](https://bit.ly/AccessibilityTesting_)
 
 Workshop: <https://bit.ly/3oTszRa>
 
