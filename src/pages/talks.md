@@ -6,6 +6,18 @@ menus:
     weight: 4
 template: page
 ---
+## Testing Programm Medellín **\-** 04 May. 2023 (Endava Colombia)
+
+Talk:  **Testing with Accessibility Tree and ARIA attributes**
+
+Slides: **TBA**
+
+## Testing Programm Medellín **\-** 03 May. 2023 (Endava Colombia)
+
+Talk:  **Accessibility Testing**
+
+Slides: **TBA**[](https://youtu.be/PlKR5oSSL_0)
+
 ## **School of Testing Medellín - 16 Nov. 2022 (Endava Colombia)**
 
 Talk:  **API Testing Exercises**
@@ -90,4 +102,4 @@ Talk: **Moving from Manual to Automated Tests with Cypress**
 
 Slides: <http://j.mp/slidespataconf2019>
 
-Wokshop: <http://bit.ly/cypresspataconf>
+Workshop: <http://bit.ly/cypresspataconf>
