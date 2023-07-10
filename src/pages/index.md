@@ -12,7 +12,7 @@ sections:
     component: ContentBlock
     content: >-
       Douglas has 12+ years of experience as Senior QA Automation Engineer in
-      Testing and Projects Management.
+      Testing and Projects Management
 
 
       Based in Medellín, Colombia. He is certified in ISTQB Foundation, IBM Developer, and a Certified Scrum Master. He has a Bachelor's (B.S.) degree in Telecommunications Engineering as well as a Master's (MSc) degree in Technology Management & Innovation at Pontifical Bolivarian University (UPB).
