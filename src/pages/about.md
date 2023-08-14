@@ -10,11 +10,11 @@ template: page
 ---
 I'm a Senior QA Automation Engineer at heart!
 
-I've been working with 12+ years of experience in Software Testing and Projects Management in an Agile environment and have hands-on experience in all stages of the software testing life cycle. Currently joined Endava Medellín in 2019.
+I've been working with 12+ years of experience in Software Testing and Projects Management in an Agile environment and have hands-on experience in all stages of the software testing life cycle.
 
 I am certified in ISTQB Foundation, IBM Certified Developer, and a Certified Scrum Master. I have a Bachelor's (B.S.) degree in Telecommunications Engineering as well as a Master's (MSc) degree in Technology Management & Innovation from Pontifical Bolivarian University (UPB) in Medellin, Colombia.
 
-I am the main organizer of the Testing Meetup: **[Medellin Testing Nights](https://www.meetup.com/es-ES/Medellin-Testing-Night/)**, a monthly event promoted by Endava in order to generate a community around Testing in Medellín, Colombia.
+I am the main organizer of the Testing Meetup: **[Medellin Testing Nights](https://www.meetup.com/es-ES/Medellin-Testing-Night/)**, a monthly event in order to generate a community around Testing in Medellín, Colombia.
 
 I've worked on several testing projects in finance, retail, insurance, media OTT, e-commerce, telecommunications, and banking companies, with knowledge of testing techniques/methodologies and how to apply them (including functional/integration, sanity, regression, performance, exploratory testing, end-to-end testing, etc.), taking the project from the planning, design, development, administration, and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. He has been delighted to be a leader in setting up QA best practices and understanding of all phases of the Software Development Life Cycle in a regulated environment. 
 
