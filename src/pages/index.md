@@ -3,7 +3,7 @@ title: Douglas Fugazi
 sections:
   - actions: []
     component: HeroBlock
-    content: Senior QA Automation Engineer from Medellín, Colombia
+    content: Senior QA Automation Engineer from Medellín, Colombia.
     section_id: hero
     type: heroblock
   - actions:
