@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: My name is Douglas Urrea Ocampo, based in Medellín, Colombia
+subtitle: My name is Douglas Urrea Ocampo, based in Medellín, Colombia.
 img_path: ""
 menus:
   main:
