@@ -6,6 +6,10 @@ menus:
     weight: 4
 template: page
 ---
+## Medellín Testing Nights **\-** 05 Dic. 2023 (Colombia)
+
+Talk:  **Expandiendo tu Alcance: Pruebas de localización e internacionalización**
+
 ## Testing Talk Medellín **\-** 04 May. 2023 (Colombia)
 
 Talk:  **Testing with Accessibility Tree and ARIA attributes**
