@@ -10,6 +10,8 @@ template: page
 
 Talk:  **Expandiendo tu Alcance: Pruebas de localización e internacionalización**
 
+S﻿lides: **<https://bit.ly/LocalizacionTesting-2023>**
+
 ## Testing Talk Medellín **\-** 04 May. 2023 (Colombia)
 
 Talk:  **Testing with Accessibility Tree and ARIA attributes**
