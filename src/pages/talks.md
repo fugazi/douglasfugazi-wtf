@@ -6,13 +6,19 @@ menus:
     weight: 4
 template: page
 ---
+## Testing Internship - 21 Feb. 2024 (Colombia)
+
+Talk:  **QA Static Techniques**
+
+S﻿lides:
+
 ## Medellín Testing Nights **\-** 05 Dic. 2023 (Colombia)
 
 Talk:  **Expandiendo tu Alcance: Pruebas de localización e internacionalización**
 
 S﻿lides: **<https://bit.ly/LocalizacionTesting-2023>**
 
-V﻿ideo: **[https://youtu.be/lRGJsdLZQCc](**https://youtu.be/lRGJsdLZQCc**)**
+V﻿ideo: **\[https://youtu.be/lRGJsdLZQCc](**https://youtu.be/lRGJsdLZQCc**)**
 
 ## Testing Talk Medellín **\-** 04 May. 2023 (Colombia)
 
