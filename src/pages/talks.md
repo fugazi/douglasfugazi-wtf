@@ -10,7 +10,7 @@ template: page
 
 Talk:  **QA Static Techniques**
 
-S﻿lides:
+S﻿lides: **<https://bit.ly/StaticTechniques2024>**
 
 ## Medellín Testing Nights **\-** 05 Dic. 2023 (Colombia)
 
