@@ -6,6 +6,14 @@ menus:
     weight: 4
 template: page
 ---
+## Tech Talks - 2 Abr. 2024 (Colombia)
+
+Talk:  **Pruebas End-to-End con Cypress**
+
+S﻿lides: **<https://slides.com/douglasfugazi/deck>**
+
+V﻿ideo:<https://www.youtube.com/watch?v=WDZ4eWXJWvQ>
+
 ## Testing Internship - 21 Feb. 2024 (Colombia)
 
 Talk:  **QA Static Techniques**
@@ -18,7 +26,7 @@ Talk:  **Expandiendo tu Alcance: Pruebas de localización e internacionalizació
 
 S﻿lides: **<https://bit.ly/LocalizacionTesting-2023>**
 
-V﻿ideo: **\[https://youtu.be/lRGJsdLZQCc](**https://youtu.be/lRGJsdLZQCc**)**
+V﻿ideo: <https://youtu.be/lRGJsdLZQCc>
 
 ## Testing Talk Medellín **\-** 04 May. 2023 (Colombia)
 
