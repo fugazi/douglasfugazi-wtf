@@ -12,6 +12,8 @@ Talk:  **Generative AI for Software Testers**
 
 S﻿lides: **<https://bit.ly/GenerativeAI-2024>**
 
+V﻿ideo: 
+
 ## Tech Talks - 2 Abr. 2024 (Colombia)
 
 Talk:  **Pruebas End-to-End con Cypress**
