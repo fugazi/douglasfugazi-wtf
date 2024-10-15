@@ -6,6 +6,12 @@ menus:
     weight: 4
 template: page
 ---
+## Coffee Testing Talks - 15 Oct. 2024 (Colombia)
+
+Talk:  **Generative AI for Software Testers**
+
+S﻿lides:
+
 ## Tech Talks - 2 Abr. 2024 (Colombia)
 
 Talk:  **Pruebas End-to-End con Cypress**
