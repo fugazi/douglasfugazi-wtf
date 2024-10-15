@@ -10,7 +10,7 @@ template: page
 
 Talk:  **Generative AI for Software Testers**
 
-S﻿lides:
+S﻿lides: **<https://bit.ly/GenerativeAI-2024>**
 
 ## Tech Talks - 2 Abr. 2024 (Colombia)
 
