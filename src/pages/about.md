@@ -10,7 +10,7 @@ template: page
 ---
 I'm a Senior QA Automation Engineer at heart!
 
-I've been working with 12+ years of experience in Software Testing and Projects Management in an Agile environment and have hands-on experience in all stages of the software testing life cycle.
+I've been working with 14+ years of experience in Software Testing and Projects Management in an Agile environment and have hands-on experience in all stages of the software testing life cycle.
 
 I am certified in ISTQB Foundation, IBM Certified Developer, and a Certified Scrum Master. I have a Bachelor's (B.S.) degree in Telecommunications Engineering as well as a Master's (MSc) degree in Technology Management from Pontifical Bolivarian University (UPB) in Medellin, Colombia.
 
