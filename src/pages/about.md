@@ -14,7 +14,7 @@ I have 14+ years of experience in Software Testing and Project Management in an 
 
 I am certified in ISTQB Foundation, IBM Certified Developer, and a Certified Scrum Master. I have a Bachelor's (B.S.) degree in Telecommunications Engineering as well as a Master's (MSc) degree in Technology Management from Pontifical Bolivarian University (UPB) in Medellin, Colombia.
 
-I am the main organizer of the Testing Meetup: **[Medellin Testing Nights](https://www.meetup.com/es-ES/Medellin-Testing-Night/)**, a monthly event in order to generate a community around Testing in Medellín, Colombia.
+I am the main organizer of the Testing Meetup: **[Medellin Testing Nights](https://www.meetup.com/es-ES/Medellin-Testing-Night/)**, a monthly event to generate a community around Testing in Medellín, Colombia.
 
 I've worked on several testing projects as a QA Automation Engineer with international clients on complex challenges in finance, retail, insurance, mobile, healthcare, e-commerce, and banking companies, with knowledge of testing techniques/methodologies and how to apply them (including functional/integration, sanity, regression, automation, exploratory testing, end-to-end testing, API testing, etc.), taking the project from the planning, design, development, administration, and execution, achieving the goals and objectives that are expected by the business in the implementation of IT solutions. I've been delighted to be a leader in setting up QA best practices and understanding all phases of the Software Development Life Cycle in a regulated environment.
 
@@ -22,7 +22,7 @@ As QA Engineer I have thorough experience testing Web applications, and Mobile A
 
 Douglas has advanced experience writing Automation Test scripts in the iteration cycle at multiple levels: UI, API, Integration, End-to-End, etc. in technologies like JAVA (Selenium WebDriver) and JavaScript (Cypress, Playwright) and a good understanding of REST-based web services.
 
-I have knowledge and experience in API testing using Postman, SOAPUI, Swagger, Newman, and other tools, writing BDD scenarios using Cucumber/Gherkin, and debugging skills. Also with intermediate knowledge of Oracle and MySQL databases as well as SQL queries.
+I have knowledge and experience in API testing using Postman, SOAPUI, Swagger, Newman, and other tools, writing BDD scenarios using Cucumber/Gherkin, and debugging skills, also with intermediate knowledge of Oracle and MySQL databases as well as SQL queries.
 
 I have advanced experience using Test Management tools like Jira, Zephyr, Confluence, TestRail, and bug tracking tools like Jira. Moreover, he is passionate about Software Testing Technologies.
 
