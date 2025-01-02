@@ -3,9 +3,6 @@ publish = "public"
 command = "./stackbit-build.sh"
 
 [[plugins]]
-package = "@netlify/plugin-lighthouse"
-
-[[plugins]]
 package = "@netlify/plugin-sitemap"
   [plugins.inputs]
   buildDir = "."
