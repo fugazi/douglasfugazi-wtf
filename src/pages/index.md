@@ -11,7 +11,7 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      Douglas has 12+ years of experience as Senior QA Automation Engineer in
+      Douglas has 14+ years of experience as a Senior QA Automation Engineer in
       Testing and Projects Management.
 
 
