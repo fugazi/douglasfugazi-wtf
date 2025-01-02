@@ -4,5 +4,5 @@ command = "./stackbit-build.sh"
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
-  [plugins.inputs]
-  buildDir = "."
+[plugins.inputs]
+buildDir = "public"
