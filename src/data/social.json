@@ -23,6 +23,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/douglasfugazi"
+    },
+    {
+      "title": "bandcamp",
+      "icon": "fa-bandcamp",
+      "url": "https://monofonicos.bandcamp.com/album/mnf050-douglas-fugazi-mar-de-la-tranquilidad"
     }
   ]
 }
