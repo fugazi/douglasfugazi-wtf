@@ -12,7 +12,7 @@ Talk:  **Generative AI for Software Testers**
 
 S﻿lides: **<https://bit.ly/GenerativeAI-2024>**
 
-V﻿ideo: 
+V﻿ideo: <https://youtu.be/VbD-GaNwIz0>
 
 ## Tech Talks - 2 Abr. 2024 (Colombia)
 
