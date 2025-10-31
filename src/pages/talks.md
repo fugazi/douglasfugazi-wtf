@@ -8,9 +8,9 @@ template: page
 ---
 ## Testing Internship - 28 Oct. 2025 (Colombia)
 
-Talk:  **Test Automation: Parallel Execution & Test Flakiness**
+Talk:  **Parallel Test Execution & Test Flakiness**
 
-V﻿ideo: [](https://youtu.be/-4stny4jlc0)
+V﻿ideo: **<https://youtu.be/EGlUuG_tAkQ>**[](https://youtu.be/-4stny4jlc0)
 
 ## Testing Internship - 22 May. 2025 (Colombia)
 
