@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactHtmlParser, { convertNodeToElement } from 'react-html-parser';
+import parse from 'html-react-parser';
 import ScriptTag from 'react-script-tag';
 import _ from 'lodash';
 
@@ -7,18 +7,26 @@ export default function(html) {
     if (!html) {
         return null;
     }
-    return ReactHtmlParser(html, {
-        transform: (node, index) => {
-            if (node.type === 'script') {
-                console.log(node);
-                if (!_.isEmpty(node.children)) {
+    return parse(html, {
+        replace: (domNode) => {
+            if (domNode.type === 'script' || (domNode.name && domNode.name === 'script')) {
+                console.log(domNode);
+                const attribs = domNode.attribs || {};
+                const children = domNode.children || [];
+                
+                if (!_.isEmpty(children)) {
                     return (
-                        <ScriptTag key={index} {...node.attribs}>
-                            {_.map(node.children, childNode => convertNodeToElement(childNode, index, _.noop()))}
+                        <ScriptTag key={Math.random()} {...attribs}>
+                            {children.map((child, index) => {
+                                if (child.type === 'text') {
+                                    return child.data;
+                                }
+                                return null;
+                            }).filter(Boolean).join('')}
                         </ScriptTag>
                     );
                 } else {
-                    return <ScriptTag key={index} {...node.attribs}/>;
+                    return <ScriptTag key={Math.random()} {...attribs}/>;
                 }
             }
         }
