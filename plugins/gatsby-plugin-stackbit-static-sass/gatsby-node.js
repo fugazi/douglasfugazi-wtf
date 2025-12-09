@@ -1,13 +1,10 @@
-const sass = require('node-sass');
-const sassUtils = require('node-sass-utils')(sass);
+const sass = require('sass');
 const fse = require('fs-extra');
 
 exports.onPostBootstrap = ({getNode}, configOptions) => {
-    let result = sass.renderSync({
-        file: configOptions.inputFile,
-        outFile: configOptions.outputFile,
+    let result = sass.compile(configOptions.inputFile, {
         functions: {
-            "getPaletteKey($key)": function(sassKey) {
+            "getPaletteKey($key)": function(args) {
                 function hexToRgb(hex) {
                     // Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
                     let shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
@@ -24,17 +21,22 @@ exports.onPostBootstrap = ({getNode}, configOptions) => {
                 }
                 let siteMetadata = getNode('Site').siteMetadata;
                 let sassParams = siteMetadata.palettes[siteMetadata.palette].sass;
-                let key = sassKey.getValue();
+                let key = args[0].assertString('key').text;
                 let value = sassParams[key];
                 let colorRegExp = /^#(?:[a-f\d]{3}){1,2}$/i;
-                let result;
+                
                 if (colorRegExp.test(value)) {
-                    result = hexToRgb(value);
-                    result = new sass.types.Color(result.r, result.g, result.b);
+                    let rgb = hexToRgb(value);
+                    return new sass.SassColor({
+                        red: rgb.r,
+                        green: rgb.g,
+                        blue: rgb.b
+                    });
+                } else if (typeof value === 'number') {
+                    return new sass.SassNumber(value);
                 } else {
-                    result = sassUtils.castToSass(value)
+                    return new sass.SassString(value);
                 }
-                return result;
             }
         }
     });
