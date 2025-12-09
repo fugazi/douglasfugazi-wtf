@@ -2,6 +2,10 @@
 publish = "public"
 command = "./stackbit-build.sh"
 
+[build.environment]
+NODE_VERSION = "18.20.0"
+NPM_VERSION = "9.8.1"
+
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 [plugins.inputs]
